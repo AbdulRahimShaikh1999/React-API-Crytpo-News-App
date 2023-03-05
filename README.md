@@ -1,1 +1,1 @@
-React Crpyto News App
+React API Crpyto News App
